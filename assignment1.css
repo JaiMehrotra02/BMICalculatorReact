@@ -1,0 +1,96 @@
+.vur{
+    margin: 15px;
+    padding: 15px;
+    width: 96%;
+    height: 100px;
+    text-align: center;
+    background-color: rgb(28, 203, 203);
+    color: white;
+  
+  } 
+  .aside{
+    width: 25%;
+    display: inline;
+    float: left;
+    margin: 15px;
+    height: 300px;
+    text-align: center;
+    background-color: rgb(43, 147, 81);
+    color: white;
+    padding-top: 150px;
+  }
+  .article{
+    width: 71%;
+    float: right;
+    background-color: rgb(234,150,54);
+    height: 300px;
+    margin: 15px;
+    color: white;
+    padding-top: 150px;
+  }
+  .image{
+    width: 21%;
+    display: inline;
+    float: left;
+    height: 70px;
+    margin: 16px;
+    color: white;
+    background-color: rgba(243, 188, 49);
+    padding: 50px;
+    font-size: 40px;
+  }
+  .footer{
+    margin: 15px;
+    padding: 15px;
+    width: 96%;
+    height: 100px;
+    text-align: center;
+    background-color: rgb(28, 203, 203);
+    color: white;
+    float: left;
+    
+  }
+  .btn{
+    border: none;
+  }
+  .main{
+    width: 20%;
+    margin: auto;
+    background-color: rgb(245, 245, 238);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .style{
+    float: right;
+    margin: 10px;
+  }
+  .headings{
+    margin: 10px;
+    float: left;
+  }
+  .reset{
+    width: 100%;
+    border: none;
+    background-color: rgb(122, 207, 241);
+    color: white;
+    font-size: 16px;
+    padding: 10px 0px;
+    cursor: pointer;
+
+  }
+  .result{
+    width: 100%;
+    background-color: rgb(63, 210, 63);
+    color: white;
+    font-size: 16px;
+    padding: 10px 0px;
+  }
+  .result1{
+    width: 100%;
+    background-color: red;
+    color: white;
+    font-size: 16px;
+    padding: 10px 0px;
+  }
